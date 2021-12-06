@@ -49,3 +49,12 @@ var addCmd = &cobra.Command{
 		}
 	},
 }
+
+
+func hahha(){
+	a := 10
+	    fmt.Println("asad")
+
+
+	
+}
