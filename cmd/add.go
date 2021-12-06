@@ -45,7 +45,6 @@ var addCmd = &cobra.Command{
 			}
 			defer file.Close()
 			fmt.Println("Create file: ", fileName)
-		fmt.Println("hello")
 		}
 	},
 }
